@@ -1,2 +1,2 @@
 # A-Calculator
-It's does just the basic
+It does just the basic
